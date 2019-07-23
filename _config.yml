@@ -1,0 +1,12 @@
+title: "CS Head Start"
+subtitle: "Fall 2019"
+
+description: >-
+   This is an on-campus head start program for incoming CS majors one week before the start of their first year. Students participate in day-long sessions with faculty and guest lecturers introducing campus and departmental resources, technical foundations, and the resources available from the technical community in the SF Bay area. Students will also participate in a field trip to familiarize them with the San Francisco area.
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+repository: usfcs-scholars/start2019
