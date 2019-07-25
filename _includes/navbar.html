@@ -26,22 +26,6 @@
           <span>Schedule</span>
         </a>
 
-        <a class="navbar-item{% if page.title == "Transportation" %} is-active{% endif %}" href="transportation.html">
-          <span class="icon">
-            <i class="far fa-map-marked-alt"></i>
-          </span>
-          <span>Transportation</span>
-        </a>
-
-        <a class="navbar-item{% if page.title == "Dining" %} is-active{% endif %}" href="dining.html">
-          <span class="icon">
-            <i class="far fa-map-marked-alt"></i>
-          </span>
-          <span>Dining</span>
-        </a>
-      </div>
-
-      <div class="navbar-end">
         <a class="navbar-item" href="{{ site.github.repository_url }}" disabled>
           <span class="icon">
             <i class="fab fa-github-alt"></i>
@@ -49,6 +33,40 @@
           <span>Repository</span>
         </a>
       </div>
+
+      <div class="navbar-end">
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            <span class="icon">
+              <i class="fas fa-info-circle"></i>
+            </span>
+            <span>
+              Details
+            </span>
+          </a>
+
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="transportation.html">
+              <span class="icon">
+                <i class="fas fa-map-marked-alt"></i>
+              </span>
+              <span>
+                Transportation
+              </span>
+            </a>
+
+            <a class="navbar-item" href="dining.html">
+              <span class="icon">
+                <i class="fas fa-utensils"></i>
+              </span>
+              <span>
+                Dining
+              </span>
+            </a>
+          </div>
+        </div>
+      </div> <!-- end navbar-end -->
+
     </div>
   </div>
 </nav>
