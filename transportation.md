@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Transportation
+title:  Transportation
+navbar: Details
 ---
 
 <figure>

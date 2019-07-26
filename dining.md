@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Dining
+title:  Dining
+navbar: Details
 ---
 
 <figure>

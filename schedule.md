@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Schedule
+title:  Schedule
+navbar: Schedule
 ---
 
 Pending

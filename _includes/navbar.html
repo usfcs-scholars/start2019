@@ -19,7 +19,7 @@
 
     <div id="main-menu" class="navbar-menu">
       <div class="navbar-start">
-        <a class="navbar-item" href="schedule.html">
+        <a class="navbar-item{% if page.navbar == "Schedule" %} is-active{% endif %}" href="schedule.html">
           <span class="icon">
             <i class="far fa-calendar-alt"></i>
           </span>
@@ -27,7 +27,7 @@
         </a>
 
         <div class="navbar-item has-dropdown is-hoverable">
-          <a class="navbar-link">
+          <a class="navbar-link{% if page.navbar == "Details" %} is-active{% endif %}"">
             <span class="icon">
               <i class="fas fa-info-circle"></i>
             </span>
@@ -37,7 +37,7 @@
           </a>
 
           <div class="navbar-dropdown">
-            <a class="navbar-item" href="transportation.html">
+            <a class="navbar-item{% if page.title == "Transportation" %} is-active{% endif %}" href="transportation.html">
               <span class="icon">
                 <i class="fas fa-map-marked-alt"></i>
               </span>
@@ -46,7 +46,7 @@
               </span>
             </a>
 
-            <a class="navbar-item" href="dining.html">
+            <a class="navbar-item{% if page.title == "Dining" %} is-active{% endif %}" href="dining.html">
               <span class="icon">
                 <i class="fas fa-utensils"></i>
               </span>
