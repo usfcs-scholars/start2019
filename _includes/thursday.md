@@ -1,0 +1,1 @@
+Thursday schedule pending.
