@@ -105,7 +105,7 @@ table.glance thead tr {
       <td>Mission Bit</td>
       <td>Career Services</td>
       <!-- empty -->
-      <td>CASA</td>
+      <td>Campus Advising Services</td>
       <td>Stress Management</td>
     </tr>
 
