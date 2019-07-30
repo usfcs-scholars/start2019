@@ -1,10 +1,10 @@
 ###### `09:00 – 09:30am` Warmup
 
-###### `09:30 – 10:45am` Programming Instruction
+###### `09:30 – 10:45am` Python Programming
 
-###### `10:45 – 11:00am` *Break*
+###### `10:45 – 11:00am` *15m Break*
 
-###### `11:00 – 12:00pm` Programming Practice
+###### `11:00 – 12:00pm` Python Programming
 
 ###### `12:00 – 01:00pm` *Lunch*
 
@@ -20,15 +20,11 @@ This is a workshop offered by [Rachel Brunson](https://myusf.usfca.edu/lwsc/staf
 
 This is a presentation by Kamal Harb, Senior Director of [Health Promotion Services (HPS)](https://myusf.usfca.edu/hps).
 
-###### `03:00 – 03:15pm` *Break*
+###### `03:00 – 03:30pm` *30m Break*
 
-###### `03:15 – 04:15pm` TBD
+###### `03:30 – 05:00pm` Wrapup
 
-###### `04:15 – 05:15pm` Wrapup
-
-###### `05:15 – 06:15pm` *Dinner*
-
-Students are encouraged to eat on campus using their meal plans or dons dollars. See the [dining](dining.html) page for details.
+We will reflect on the week, discuss any on-campus student services we missed throughout the week, and finally discuss the upcoming university and CS major orientations schedule. 
 
 ###### End of Program
 
