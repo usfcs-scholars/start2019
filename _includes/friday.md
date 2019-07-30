@@ -24,7 +24,7 @@ This is a presentation by Kamal Harb, Senior Director of [Health Promotion Servi
 
 ###### `03:30 – 05:00pm` Wrapup
 
-We will reflect on the week, discuss any on-campus student services we missed throughout the week, and finally discuss the upcoming university and CS major orientations schedule. 
+We will reflect on the week, discuss any on-campus student services we missed throughout the week (e.g. [CAPS](https://myusf.usfca.edu/caps), [SDS](https://myusf.usfca.edu/sds), [Food Pantry](https://myusf.usfca.edu/food-pantry)), and finally discuss the upcoming university and CS major orientations schedule.
 
 ###### End of Program
 
