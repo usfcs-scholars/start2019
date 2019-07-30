@@ -7,6 +7,12 @@ title: Welcome
 
 The Fall 2019 program runs from **Monday, August 12th** to **Friday, August 16th** in LS G12. See the [Schedule](schedule.html) for more information.
 
+<article class="message is-info">
+  <div class="message-body">
+    The <a href="dining.html">dining</a> information and <a href="schedule.html">schedule</a> have been recently updated. The program will run from 9:00am to 5:00pm on Monday thru Friday, followed by an optional dinner and student social lasting until 8:00pm on Monday thru Thursday.
+  </div>
+</article>
+
 ## Schedule at a Glance
 
 <style>
@@ -134,7 +140,7 @@ table.glance thead tr {
       <td rowspan="3">CS Unplugged</td>
       <!-- empty -->
       <td rowspan="2">Faculty Scavenger Hunt</td>
-      <td rowspan="2">Wrapup</td>
+      <td rowspan="3">Wrapup</td>
     </tr>
 
     <tr>
