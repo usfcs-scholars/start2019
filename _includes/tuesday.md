@@ -1,10 +1,10 @@
 ###### `09:00 – 09:30am` Warmup
 
-###### `09:30 – 10:45am` Programming Instruction
+###### `09:30 – 10:45am` Python Programming
 
-###### `10:45 – 11:00am` *Break*
+###### `10:45 – 11:00am` *15m Break*
 
-###### `11:00 – 12:00pm` Programming Practice
+###### `11:00 – 12:00pm` Python Programming
 
 ###### `12:00 – 01:00pm` *Lunch*
 
@@ -20,16 +20,14 @@ This is a workshop offered by [Rachel Brunson](https://myusf.usfca.edu/lwsc/staf
 
 This is a presentation by [Miriam Karpilow](https://myusf.usfca.edu/career-services/meet-staff), Director of Employer Relations with the [Priscilla A. Scotlan Career Services Center](https://myusf.usfca.edu/career-services).
 
-###### `03:00 – 03:15pm` *Break*
+###### `03:00 – 03:30pm` *30m Break*
 
-###### `03:15 – 04:15pm` CS Unplugged &ndash; Part 1
+###### `03:30 – 05:00pm` CS Unplugged
 
-###### `04:15 – 05:15pm` CS Unplugged &ndash; Part 2
-
-###### `05:15 – 06:15pm` *Dinner*
+###### `05:00 – 06:00pm` *Dinner*
 
 Students are encouraged to eat on campus using their meal plans or dons dollars. See the [dining](dining.html) page for details.
 
-###### `06:15 – 07:15pm` *Social*
+###### `06:00 – 08:00pm` *Social*
 
-Chia and Pablo from the Diversineers student group will be hosting an evening social.
+Chia and Pablo from the Diversineers student group will be hosting an evening social. Light snacks will be provided.
