@@ -11,7 +11,13 @@ navbar: Details
 </caption>
 </figure>
 
-While we do not have funding to provide food during the head start program, students will be use the [on-campus dining halls](https://www.usfca.edu/student-life/campus-experience/dining-campus) for lunch and dinner. Visit the [Bon Appétit website](https://www.usfca.edu/student-life/campus-experience/dining-campus) for menus and locations.
+## Welcome Reception
+
+We will provide coffee, tea, and breakfast pastries for the welcome reception on Monday for all participants. Breakfast will not be provided for the rest of the week.
+
+## Lunch and Dinner
+
+While we do not have funding to provide lunch or dinner during the head start program, students will be use the [on-campus dining halls](https://www.usfca.edu/student-life/campus-experience/dining-campus). Visit the [Bon Appétit website](https://www.usfca.edu/student-life/campus-experience/dining-campus) for menus and locations.
 
 Students with [flexi meal plans](https://myusf.usfca.edu/housing/meal-plans) will be able to use them during the head start week. Otherwise, students are encouraged to use [dons dollars](https://www.usfca.edu/one-card/students/don-dollars) to purchase meals on campus.
 
@@ -22,3 +28,7 @@ Students may also grab food [off-campus](https://www.yelp.com/search?find_desc=R
     Students that are also in the <a href="/">Community Engaged Scholars in CS</a> scholarship program will have their meal plans supplemented to allow participation in the head start program.
   </div>
 </article>
+
+## Student Socials
+
+Snacks will be provided at the optional student socials on Monday, Tuesday, Wednesday, and Thursday. There is no social planned for Friday.
