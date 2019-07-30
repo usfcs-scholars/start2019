@@ -1,10 +1,10 @@
 ###### `09:00 – 09:30am` Warmup
 
-###### `09:30 – 10:45am` Programming Instruction
+###### `09:30 – 10:45am` Python Programming
 
-###### `10:45 – 11:00am` *Break*
+###### `10:45 – 11:00am` *15m Break*
 
-###### `11:00 – 12:00pm` Programming Practice
+###### `11:00 – 12:00pm` Python Programming
 
 ###### `12:00 – 01:00pm` *Lunch*
 
@@ -20,18 +20,18 @@ This is a workshop offered by [Rachel Brunson](https://myusf.usfca.edu/lwsc/staf
 
 This is a presentation by [Sara Solloway](https://myusf.usfca.edu/casa/profiles/solloway), Assistant Dean for Student Academic Success with the [Center for Academic and Student Achievement (CASA)](https://myusf.usfca.edu/casa). CASA is "your home for compassionate academic and personal support that promotes holistic student development."
 
-###### `03:00 – 03:15pm` *Break*
+###### `03:00 – 03:30pm` *30m Break*
 
-###### `03:15 – 04:15pm` Faculty Scavenger Hunt
+###### `03:30 – 04:30pm` Faculty Scavenger Hunt
 
-###### `04:15 – 05:15pm` Recap
+###### `04:30 – 05:00pm` Recap
 
 We will discuss our findings from the faculty scavenger hunt.
 
-###### `05:15 – 06:15pm` *Dinner*
+###### `05:00 – 06:00pm` *Dinner*
 
 Students are encouraged to eat on campus using their meal plans or dons dollars. See the [dining](dining.html) page for details.
 
-###### `06:15 – 07:15pm` *Social*
+###### `06:00 – 08:00pm` *Social*
 
-Michelle and Graham from the [USF Chapter of the ACM](https://usfcaacm.github.io/) will be hosting an evening social.
+Michelle and Graham from the [USF Chapter of the ACM](https://usfcaacm.github.io/) will be hosting an evening social. Light snacks will be provided.
