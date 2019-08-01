@@ -10,7 +10,7 @@ navbar: Details
   <caption><span class="is-size-7 has-text-grey">Inside view of the LS G12 classroom.</span></caption>
 </figure>
 
-We will be located in the [John Lo Schiavo, S.J. Center for Science and Innovation](https://www.usfca.edu/campus-buildings-services/main-campus/lo-schiavo) building (commonly abbreviated as "Lo Schiavo Science" or just "LS") in room G12. This is a dedicated CS classroom with lab computers available to students without laptops.
+We will be located in the [John **L**o **S**chiavo, S.J. **C**enter for **S**cience and **I**nnovation](https://www.usfca.edu/campus-buildings-services/main-campus/lo-schiavo) building (commonly abbreviated as "LS" or "CSI") in room G12. This is a dedicated CS classroom with lab computers available to students without laptops.
 
 {% include anchor.html h="h2" text="Getting to Campus" %}
 

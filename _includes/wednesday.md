@@ -14,15 +14,15 @@ Students are encouraged to quickly grab a meal to go from on campus. (There is a
 
 **We will leave from LS G12 for our field trip at 12:15pm.** We will use [public transportation](https://www.sfmta.com/) to travel to the [Exploratorium](https://www.exploratorium.edu/) museum in downtown San Francisco. We will likely break into two groups (with one coordinator per group). The directions are:
 
-  1. Walk to the Muni bus stop at the [Fulton and Shrader](https://www.sfmta.com/stops/fulton-st-shrader-st-14234) corner (across the street from the church).
+  1. Walk to the Muni bus stop at the [Turk and Chabot Terrace](https://www.sfmta.com/stops/turk-st-chabot-ter-16715) corner (across the street from the [Lone Mountain](https://www.usfca.edu/campus-buildings-services/lone-mountain-campus/lone-mountain-main) stairs).
 
-  2. Take the [5 Fulton](https://www.sfmta.com/routes/5-fulton) or [5R Fulton Rapid](https://www.sfmta.com/routes/5r-fulton-rapid) bus inbound to downtown. Depending which bus you take, it will take between 20 and 25 minutes.
+  2. Take the [31 Balboa](https://www.sfmta.com/routes/31-balboa) bus inbound to downtown. Stay on this bus for 28 stops (approximately 35 minutes).
 
-  3. Get off at the [Market and 4th](https://www.sfmta.com/stops/market-st-4th-st-15642) stop. There will be signs in the area for the Powell station.
+  3. Get off at the [Spear and Market](https://www.sfmta.com/stops/spear-st-market-st-16475) stop. This stop is next to the Federal Reserve Bank of San Francisco, and near the Hyatt Regency and Bank of America buildings.
 
-  4. From there, take the [F Market](https://www.sfmta.com/routes/f-market-wharves) [streetcar](https://www.sfmta.com/getting-around/muni/historic-streetcars) inbound to Fisherman's Wharf. You will take this for around 15 to 20 minutes for 9 stops.
+  4. From there, walk along Market Street towards the Embarcadero (towards the bay) and iconic [Ferry Building](https://www.ferrybuildingmarketplace.com/) and wait for the other groups to arrive.
 
-  5. Stay on the [F Market](https://www.sfmta.com/routes/f-market-wharves) streetcar past the Embarcadero and Ferry Building (along the bay) and get off at the [Embarcadero and Green](https://www.sfmta.com/stops/embarcadero-green-st-14517) stop. This will drop you off right infront of the [Exploratorium](https://www.exploratorium.edu/) building. Wait there for everyone to arrive.
+  5. Once everyone is together again, we will walk approximately 15 minutes along the Embarcadero (along the bay) to the [Exploratorium](https://www.exploratorium.edu/) building.
 
 See the [transportation](transportation.html) page for details on costs.
 
@@ -36,7 +36,7 @@ Enjoy exploring the [**Exploratorium**](https://www.exploratorium.edu/)! Ticket 
 
 ###### `02:45 – 03:00pm` *Leave Exploratorium*
 
-**We will leave from the entrance of the Exploratorium at 2:45pm.** We will [walk along the Embarcadero](https://goo.gl/maps/ouu85hewZt8spXqf8) to the [Autodesk Gallery](https://www.autodesk.com/gallery/overview), which is approximately 15 minutes away. Students may also opt to take the [F Market](https://www.sfmta.com/routes/f-market-wharves) streetcar there as well (10 minutes, 5 stops).
+**We will leave from the entrance of the Exploratorium at 2:30pm.** We will [walk along the Embarcadero](https://goo.gl/maps/ouu85hewZt8spXqf8) to the [Autodesk Gallery](https://www.autodesk.com/gallery/overview), which is approximately 15 minutes away. Students may also opt to take the [F Market](https://www.sfmta.com/routes/f-market-wharves) streetcar there as well (10 minutes, 5 stops).
 
 ###### `03:00 – 04:00pm` Field Trip: Autodesk Gallery
 
@@ -50,9 +50,9 @@ We have a guided tour starting at 3:00pm sharp at the [Autodesk Gallery](https:/
 
 Students should try to be back on campus by 4:45pm using public transportation. The directions are:
 
-  1. Go to the [Fremont and Market](https://www.sfmta.com/stops/fremont-st-market-st-14725) stop and catch either they [5 Fulton](https://www.sfmta.com/routes/5-fulton) or [5R Fulton Rapid](https://www.sfmta.com/routes/5r-fulton-rapid) bus outbound to the Richmond.
+  1. Go to the [Steuart and Market](https://www.sfmta.com/stops/steuart-st-market-st-16501) stop and catch either they [31 Balboa](https://www.sfmta.com/routes/31-balboa) bus outbound to the Richmond.
 
-  2. Get off at the [Fulton and Parker](https://www.sfmta.com/stops/fulton-st-parker-ave-14233) stop infront of the church.
+  2. Get off at the [Turk and Chabot Terrace](https://www.sfmta.com/stops/turk-st-chabot-ter-16714) stop infront of the Lone Mountain stairs.
 
   3. Walk back to the LS G12 classroom.
 

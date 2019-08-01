@@ -29,6 +29,12 @@ Students may also grab food [off-campus](https://www.yelp.com/search?find_desc=R
   </div>
 </article>
 
+## Field Trip
+
+Lunch for the field trip must be grab-and-go. We will eat lunch in the Exploratorium plaza when we arrive.
+
+The [on-campus dining halls](https://www.usfca.edu/student-life/campus-experience/dining-campus) have pre-packaged food options students may select from. Alternatively, students may bring a bag lunch with them or purchase a meal at the Exploratorium's [Seismic Joint Café](https://www.seismicjointsf.com/menu) (~$9.00 to $15.00 for a meal without drinks or sides). 
+
 ## Student Socials
 
 Snacks will be provided at the optional student socials on Monday, Tuesday, Wednesday, and Thursday. There is no social planned for Friday.
