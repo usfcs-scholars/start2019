@@ -12,6 +12,14 @@ We will introduce the program and ask everyone to introduce themselves.
 
 We will introduce the CS major and break into small groups for advising.
 
+  - [Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vSrT8A_h0hpX3hp6RQ_0Y9CJmkrlg6SzLIc3Kim9I22Lmlk1r3IHRajdkU9t4YetSsljjauuoNhnEkE/pub?start=false&loop=false&delayms=3000)
+
+  - [CS Major Requirements](https://docs.google.com/document/d/1Rb78VLQDEgGS8JYnsgjg-QaKAvL7JpCny0ydvcqYPeI/edit?usp=sharing)
+
+  - [CS Major Prerequisites](https://drive.google.com/file/d/1lMH7qmDrcfoBHHOER-tzoGoCVEv1V4Fe/view?usp=sharing)
+
+  - [CS Major Advising Worksheet](https://docs.google.com/document/d/1Al-72D4pwdNHCnP-Dywa5QV0a5IxMEcmlU96FwSuOBc/edit?usp=sharing)
+
 ###### `12:00 – 01:00pm` *Lunch*
 
 Students are encouraged to eat on campus using their meal plans or dons dollars. See the [dining](dining.html) page for details.
