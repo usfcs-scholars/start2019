@@ -170,7 +170,7 @@ table.glance thead tr {
 
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey">6:00p</td>
-      <td rowspan="4">Social TBD</td>
+      <td rowspan="4">Social with CS Tutoring Center</td>
       <td rowspan="4">Social with the Diversineers</td>
       <td rowspan="4">Social with Women in Tech</td>
       <td rowspan="4">Social with the ACM</td>

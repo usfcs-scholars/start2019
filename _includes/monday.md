@@ -46,4 +46,4 @@ Students are encouraged to eat on campus using their meal plans or dons dollars.
 
 ###### `06:00 – 08:00pm` *Social*
 
-TBD
+Harrison and Daniel from the CS Tutoring Center will be hosting an evening social. Light snacks will be provided.
