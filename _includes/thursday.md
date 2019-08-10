@@ -1,5 +1,7 @@
 ###### `09:00 – 09:30am` Warmup
 
+- [Thursday Warmup Slides](https://docs.google.com/presentation/d/e/2PACX-1vRRRqeERadyKsYQQtHTwCKC0YyCjRfG41AX7bKB_ol4UeicvPoNBro_ElydQk7Mof-Yc1hUSgNdAyp-/pub?start=false&loop=false&delayms=3000)
+
 ###### `09:30 – 10:45am` Python Programming
 
 ###### `10:45 – 11:00am` *15m Break*
