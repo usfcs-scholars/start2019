@@ -6,13 +6,15 @@ We will provide coffee, tea, and breakfast pastries for a welcome reception just
 
 We will introduce the program and ask everyone to introduce themselves.
 
+  - [Introduction Slides](https://docs.google.com/presentation/d/e/2PACX-1vS43GToiR8QYSo_gW2iUVZj1Dewnrq8xiyGMGuwZNui3aAOHfxcozjUYd0sAN1D0zEJI5BY1RbL5NUY/pub?start=false&loop=false&delayms=3000)
+
 ###### `10:45 – 11:00am` *15m Break*
 
 ###### `11:00 – 12:00pm` CS Major and Advising
 
 We will introduce the CS major and break into small groups for advising.
 
-  - [Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vSrT8A_h0hpX3hp6RQ_0Y9CJmkrlg6SzLIc3Kim9I22Lmlk1r3IHRajdkU9t4YetSsljjauuoNhnEkE/pub?start=false&loop=false&delayms=3000)
+  - [Advising Slides](https://docs.google.com/presentation/d/e/2PACX-1vSrT8A_h0hpX3hp6RQ_0Y9CJmkrlg6SzLIc3Kim9I22Lmlk1r3IHRajdkU9t4YetSsljjauuoNhnEkE/pub?start=false&loop=false&delayms=3000)
 
   - [CS Major Requirements](https://docs.google.com/document/d/1Rb78VLQDEgGS8JYnsgjg-QaKAvL7JpCny0ydvcqYPeI/edit?usp=sharing)
 
