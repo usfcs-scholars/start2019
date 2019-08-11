@@ -26,7 +26,13 @@ We will introduce the CS major and break into small groups for advising.
 
 Students are encouraged to eat on campus using their meal plans or dons dollars. See the [dining](dining.html) page for details.
 
-###### `01:00 – 02:00pm` TBD
+###### `01:00 – 02:00pm` Careers in CS
+
+  - [Careers in CS Slides](https://docs.google.com/presentation/d/e/2PACX-1vQUalpfpb2hqTwOhpY2G1OXDn06M8tFI0wsJC1RBRJk9ACNzslGA5BTYn_rFfNjbl4Jsau1WWnLtKd8/pub?start=false&loop=false&delayms=3000)
+
+
+  - [Computer and Information Technology Occupations](https://www.bls.gov/ooh/computer-and-information-technology/home.htm)
+  - [Career OneStop](https://www.careeronestop.org/)
 
 ###### `02:00 – 03:00pm` Mission Bit
 
