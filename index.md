@@ -137,7 +137,7 @@ table.glance thead tr {
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey"> 3:30p</td>
       <td>Computer Hardware</td>
-      <td rowspan="3">CS Unplugged</td>
+      <td rowspan="1">Using Unix</td>
       <!-- empty -->
       <td rowspan="2">Faculty Scavenger Hunt</td>
       <td rowspan="3">Wrapup</td>
@@ -146,6 +146,7 @@ table.glance thead tr {
     <tr>
       <td nowrap class="has-text-right is-size-7 has-text-grey"> 4:00p</td>
       <td rowspan="2">Using Unix</td>
+      <td rowspan="2">CS Unplugged</td>
     </tr>
 
     <tr>
