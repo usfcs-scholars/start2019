@@ -40,11 +40,11 @@ We will have a presentation on [service learning](https://catalog.usfca.edu/cont
 
 ###### `03:00 – 03:30pm` *30m Break*
 
-###### `03:30 – 04:00pm` Computer Hardware
+###### `03:30 – 04:15pm` Computer Hardware
 
 We will have a presentation on computer hardware by [Elias Husary](https://www.usfca.edu/faculty/elias-husary), System Administrator with our [CS Support](https://myusf.usfca.edu/arts-sciences/computer-science/technical-resources) group. This group helps maintain all of the computing equipment used by the CS department, including the CS lab computers and login accounts.
 
-###### `04:00 – 04:30pm` Using Unix
+###### `04:15 – 04:45pm` Using Unix
 
 We will cover how to use a Unix-based operating system using the CS lab computers available in the LS G12 classroom. Students will login to their CS lab accounts, learn about file systems, and how to use the command line (or terminal) in Unix to navigate and execute code.
 
@@ -65,17 +65,7 @@ A free book made to supplement their paid course content, but useful standalone.
 - [**Learning Linux Command Line**](https://www.linkedin.com/learning/learning-linux-command-line-2) *on LinkedIn Learning*  
 Online video-based course. [LinkedIn Learning](https://myusf.usfca.edu/ets/educational-technologies/lynda) is a free resource for USF students; requires login.
 
-###### `04:00 – 04:30pm` Digital Scavenger Hunt
-
-Use what you have learned to discover the correct hidden poem! It is hidden somewhere on the CS lab computers at:
-
-```
-/home/sjengle/hunt
-```
-
-You should first attempt to discover the hidden poem on your own. Once you have discovered the answer, try helping out someone that hasn't! The only rule is you cannot tell them the answer directly and cannot type on anyone else's keyboard.
-
-If you do not finish before dinner, do not fret! The CS Tutoring Center is hosting the first social and can help you out.
+This lesson will be continued on Tuesday.
 
 ###### `04:45 – 05:00pm` Baseline Survey
 

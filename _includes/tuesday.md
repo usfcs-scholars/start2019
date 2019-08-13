@@ -24,7 +24,28 @@ This is a presentation by [Miriam Karpilow](https://myusf.usfca.edu/career-servi
 
 ###### `03:00 – 03:30pm` *30m Break*
 
-###### `03:30 – 05:00pm` CS Unplugged
+###### `03:30 – 04:00pm` Using Unix
+
+This will be a continuation of the "Using Unix" lesson started on Monday. See the Monday schedule for a list of resources.
+
+Some of the commands and concepts demonstrated include: `.`, `..`, `~`, `*`, `man`, `date`, `pwd`, `ls`, `cd`, `mkdir`, `rmdir`, `touch`, `cp`, `mv`, `rm`, `cat`, `head`, `tail`, `more`, `less`, `python`
+
+###### `04:00 – 04:30pm` Digital Scavenger Hunt
+
+Use what you have learned to discover the correct hidden poem! It is hidden somewhere on the CS lab computers at:
+
+```
+/home/sjengle/hunt
+```
+
+You should first attempt to discover the hidden poem on your own. Once you have discovered the answer, try helping out someone that hasn't! The only rules are you cannot tell them the answer directly, can only suggest commands to try, and cannot type on anyone else's keyboard.
+{: style="margin-top: 1em;"}
+
+###### `04:30 – 05:00pm` CS Unplugged
+
+We will do a modified version of [Parity Magic](https://www.csunplugged.org/en/topics/error-detection-and-correction/unit-plan/parity-magic/) exercise from the [CS Unplugged](https://www.csunplugged.org/en/) website in class.
+
+You can [try this exercise online](https://csfieldguide.org.nz/en/interactives/parity/) to test whether you can guess the error using parity bits.
 
 ###### `05:00 – 06:00pm` *Dinner*
 
