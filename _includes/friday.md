@@ -28,6 +28,8 @@ This is a presentation by Kamal Harb, Senior Director of [Health Promotion Servi
 
 We will reflect on the week, discuss any on-campus student services we missed throughout the week (e.g. [CAPS](https://myusf.usfca.edu/caps), [SDS](https://myusf.usfca.edu/sds), [Food Pantry](https://myusf.usfca.edu/food-pantry)), and finally discuss the upcoming university and CS major orientations schedule.
 
+- [Wrapup Slides](https://docs.google.com/presentation/d/e/2PACX-1vTH0kIxxPVeJKoJnYRVYNzLrZkQ2UqnsVPWxA3-VIOVQhp1eXIXazPvn7RPLwQgREa8XMCoPWcy5Mxn/pub?start=false&loop=false&delayms=3000)
+
 ###### End of Program
 
 There is no social planned for Friday evening. The university-wide [New Student and Family Orientation (NSFO)](https://myusf.usfca.edu/orientation/orientation-orientation) begins on Saturday, August 17th and the [Weeks of Welcome (WOW)](https://myusf.usfca.edu/orientation/week-of-welcome) begin on Monday, August 19th.

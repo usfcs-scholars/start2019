@@ -26,6 +26,8 @@ This is a presentation by [Sara Solloway](https://myusf.usfca.edu/casa/profiles/
 
 ###### `03:30 – 04:30pm` Faculty Scavenger Hunt
 
+- [Faculty Scavenger Hunt Instructions](https://docs.google.com/presentation/d/e/2PACX-1vTsoKCPWNuqEepmeY7KvwPtHacFpAMZgjCRtL5KR7PPoJzlSbSIOTLJH_iLfQRSMSC4LLMy6BOb5vna/pub?start=false&loop=false&delayms=3000)
+
 ###### `04:30 – 05:00pm` Recap
 
 We will discuss our findings from the faculty scavenger hunt.
